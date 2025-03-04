@@ -17,12 +17,12 @@ header {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: rgba(248, 248, 255, 0.3);
+    background-color: #999999;
     border: 4px solid #ffffff;
 }
 
 h1, h2, h3 {
-    color: #dfdfdf;
+    color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -36,7 +36,7 @@ li {
     margin-bottom: 10px;
     padding: 10px;
     border: 2px solid #ffffff;
-    background-color: rgba(176, 196, 222, 0.1);
+    background-color: #999999;
 }
 
 form {
@@ -49,7 +49,7 @@ form {
 
 label {
     margin-bottom: 5px;
-    color: #dfdfdf;
+    color: #ffffff;
 }
 
 input, textarea {
@@ -58,7 +58,7 @@ input, textarea {
     border: 2px solid #ffffff;
     border-radius: 0;
     background-color: #999999;
-    color: #dfdfdf;
+    color: #ffffff;
     font-family: 'Courier New', monospace;
 }
 
